@@ -55,6 +55,7 @@ const render = () => {
         let newArr = [...newSteps]
         newArr.splice(0, 12)
         currentSteps = newArr
+        cur = 9
     }
 
 
